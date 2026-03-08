@@ -54,7 +54,7 @@ The notebook covers the following model families:
 mnist-generative-modeling-playground/
 ├── README.md
 ├── requirements.txt
-├── TP.ipynb
+├── mnist-generative-model-comparison.ipynb
 └── assets/            # optional: figures or sample outputs
 ```
 
