@@ -91,23 +91,6 @@ The project includes several types of outputs that are useful for analysis and p
 - training curves
 - qualitative comparisons between model families
 
-## Notes
-
-- Some sections may load pretrained checkpoints or external files. If those files are not included in the repository, mention their source in the repo or add download instructions.
-- For a cleaner public repository, avoid committing large model checkpoints, temporary outputs, or cached files unless they are necessary for reproducibility.
-- If the notebook was originally developed in Colab, you may want to adapt file paths for local execution before publishing.
-
-## Skills Demonstrated
-
-This project highlights experience with:
-
-- PyTorch model development
-- generative deep learning
-- latent space analysis
-- image reconstruction and synthesis
-- notebook-based experimentation
-- comparative evaluation of deep learning architectures
-
 ## Repository Description
 
 **Comparative generative modeling on MNIST using autoencoders, VAE, VQ-VAE, and GANs in PyTorch.**
